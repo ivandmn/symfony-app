@@ -1,0 +1,5 @@
+suites:
+    default:
+        spec_prefix: tests
+        spec_path: .
+        src_path: src
